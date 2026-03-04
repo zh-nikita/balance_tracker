@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "bank1": {
+      "name": "Bank Account 1",
+      "currency": "USD",
+      "balance": 3
+    },
+    "bank2": {
+      "name": "Bank Account 2",
+      "currency": "UAH",
+      "balance": 0
+    },
+    "cash": {
+      "name": "Cash",
+      "currency": "USD",
+      "balance": 0
+    },
+    "crypto": {
+      "name": "Crypto",
+      "currency": "USD",
+      "balance": 0
+    }
+  },
+  "history": [
+    {
+      "date": "04 March 2026",
+      "usd_total": 1,
+      "uah_total": 43,
+      "accounts": {
+        "bank1": 1,
+        "bank2": 0,
+        "cash": 0,
+        "crypto": 0
+      }
+    },
+    {
+      "date": "04 March 2026",
+      "usd_total": 3,
+      "uah_total": 130,
+      "accounts": {
+        "bank1": 3,
+        "bank2": 0,
+        "cash": 0,
+        "crypto": 0
+      }
+    },
+    {
+      "date": "04 March 2026",
+      "usd_total": 3,
+      "uah_total": 130,
+      "accounts": {
+        "bank1": 3,
+        "bank2": 0,
+        "cash": 0,
+        "crypto": 0
+      }
+    }
+  ]
+}
